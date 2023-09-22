@@ -141,21 +141,15 @@
 
 <div>
 
-  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTamayo&theme=dark)](https://git.io/streak-stats) -->
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=8&layout=donut&theme=dark)](https://github.com/AlexTamayo/github-readme-stats) -->
-
   <a href="https://git.io/streak-stats">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlexTamayo&theme=dark" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlexTamayo&theme=dark" height="200" />
   </a>
   <a href="https://github.com/AlexTamayo/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=8&layout=donut&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=8&layout=donut&theme=dark" height="200"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexTamayo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=3&hide_title=true&hide_border=true" />
-  </a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexTamayo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" height="200"/>
+  </a> -->
 
 </div>
 
