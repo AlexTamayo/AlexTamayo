@@ -2,8 +2,6 @@
 
 ## Fullstack Web Developer & 3D Artist
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="center" style="padding:20px;border-radius:30px;">
-
 <!-- Contacts & Social Media -->
 **Contacts & Social Media**
 <p>
@@ -40,7 +38,7 @@
     <img src="./icons/css3.svg" alt="css3" width="40" height="40">
   </a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
-    <img src="./icons/c.svg" alt="c" width="40" height="40" style="border-radius:15px">
+    <img src="./icons/c.svg" alt="c" width="40" height="40">
   </a>
   <!-- <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="./icons/c++.svg" alt="c++" width="40" height="40">
