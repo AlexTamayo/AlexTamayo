@@ -59,10 +59,13 @@
 </p>
 
 ## Social Media
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00000000?style=flat&logo=LinkedIn)](Your_LinkedIn_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-00000000?style=flat&logo=Twitter)](Your_Twitter_URL)
-[![Website](https://img.shields.io/badge/-Website-00000000?style=flat)](Your_Website_URL)
-[![Twitter](https://img.shields.io/badge/-X-00000000?style=flat&logo=X)](Your_Twitter_URL)
+<p>
+
+<a href="https://www..com">
+  <img src="./icons/.svg" alt="" width="50" height="50">
+</a>
+
+</p>
 
 <!-- Insert your images or badges here -->
 
