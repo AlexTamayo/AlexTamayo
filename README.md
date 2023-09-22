@@ -137,14 +137,13 @@
 
 <br>
 <hr>
-<hr>
 <br>
 
-<p>
+<span>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTamayo&theme=dark)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=8&layout=donut&theme=dark)](https://github.com/Britt4444/github-readme-stats)
 
-</p>
+</span>
 
 </div>
