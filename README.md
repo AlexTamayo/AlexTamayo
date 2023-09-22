@@ -1,6 +1,12 @@
+<div align="center">
+
 # Fullstack Web Developer & 3D Artist
 
+<h1>Fullstack Web Developer & 3D Artist</h1>
+
 <!-- Contacts & Social Media -->
+
+
 ### Contacts & Social Media
 <p>
   <a href="https://alexandertamayo.com/">
@@ -133,3 +139,4 @@
   </a>
 </p>
 
+</div>
