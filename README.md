@@ -4,12 +4,13 @@
 
 <!-- Add icons for Programming languages here -->
 ### **Programming Languages:** 
-
-<img src="./Icons/python.svg" alt="python" width="50" height="50">
-<img src="./Icons/javascript.svg" alt="javascript" width="50" height="50">
-<img src="./Icons/ruby.svg" alt="ruby" width="50" height="50">
-<img src="./Icons/html5.svg" alt="html5" width="50" height="50">
-<img src="./Icons/css3.svg" alt="css3" width="50" height="50">
+<p>
+  <img src="./Icons/python.svg" alt="python" width="50" height="50">
+  <img src="./Icons/javascript.svg" alt="javascript" width="50" height="50">
+  <img src="./Icons/ruby.svg" alt="ruby" width="50" height="50">
+  <img src="./Icons/html5.svg" alt="html5" width="50" height="50">
+  <img src="./Icons/css3.svg" alt="css3" width="50" height="50">
+</p>
 
 
 <!-- Add icons for Frameworks here -->
