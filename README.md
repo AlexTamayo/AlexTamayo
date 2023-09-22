@@ -1,12 +1,6 @@
-<p align="center">
-  <h1>Alex Tamayo</h1>
-</p>
+# Fullstack Web Developer & 3D Artist
 
-Fullstack Web Developer & 3D Artist
-
-<p align="center">
-  <h2>Skills</h2>
-</p>
+## Skills
 
 <!-- Add icons for Programming languages here -->
 ### **Programming Languages:** 
