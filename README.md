@@ -1,9 +1,9 @@
 <div align="center">
 
-## Fullstack Web Developer & 3D Artist
+# Fullstack Web Developer & 3D Artist
 
 <!-- Contacts & Social Media -->
-**Contacts & Social Media** <brz>
+### **Contacts & Social Media**
 <p>
   <a href="https://alexandertamayo.com/" target="_blank" rel="noreferrer">
     <img src="./icons/mylogo.svg" alt="alexandertamayo.com" title="alexandertamayo.com" width="50" height="50">
@@ -20,7 +20,7 @@
 </p>
 
 <!-- Programming languages -->
-**Programming Languages** <brz>
+### **Programming Languages**
 <p>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40">
@@ -50,7 +50,7 @@
 
 
 <!-- Frameworks -->
-**Frameworks** <brz>
+### **Frameworks**
 <p>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="./icons/node.js.svg" alt="node.js" title="Node.js" width="40" height="40">
@@ -79,7 +79,7 @@
 </p>
 
 <!-- Testing -->
-**Testing** <brz>
+### **Testing**
 <p>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
     <img src="./icons/cypress.svg" alt="cypress" title="Cypress" width="40" height="40">
@@ -96,7 +96,7 @@
 </p>
 
 <!-- Systems & Databases -->
-**Systems & Databases** <brz>
+### **Systems & Databases**
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40">
@@ -110,7 +110,7 @@
 </p>
 
 <!-- 3D & others -->
-**3D & others** <brz>
+### **3D & others**
 <p>
   <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="./icons/photoshop.svg" alt="photoshop" title="Adobe Photoshop" width="40" height="40">
