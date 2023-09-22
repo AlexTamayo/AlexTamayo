@@ -139,14 +139,16 @@
 <hr>
 <br>
 
-<div>
 
+
+<div>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AlexTamayo&theme=dark" height="200" />
+    <img align="center" src="https://streak-stats.demolab.com?user=AlexTamayo&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=CC0000&fire=CC0000&currStreakLabel=CCCCCC&hide_current_streak=true" height="200"/>
   </a>
-  <a href="https://github.com/AlexTamayo/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=8&layout=donut&theme=dark" height="200"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=5&layout=donut&theme=dark&bg_color=0D1117&border_radius=15&hide_border=true" height="200"/>
   </a>
+
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexTamayo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" height="200"/>
   </a> -->
