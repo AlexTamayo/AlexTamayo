@@ -37,9 +37,9 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="./icons/css3.svg" alt="css3" width="40" height="40">
   </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
     <img src="./icons/c.svg" alt="c" width="40" height="40">
-  </a>
+  </a> -->
   <!-- <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="./icons/c++.svg" alt="c++" width="40" height="40">
   </a> -->
@@ -134,5 +134,10 @@
     <img src="./icons/blender.svg" alt="blender" width="40" height="40">
   </a>
 </p>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTamayo&theme=nightowl)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=8&layout=donut&theme=nightowl)](https://github.com/Britt4444/github-readme-stats)
 
 </div>
