@@ -1,6 +1,21 @@
 # Fullstack Web Developer & 3D Artist
 
-## Skills
+<!-- Contacts & Social Media -->
+### Contacts & Social Media
+<p>
+  <a href="https://alexandertamayo.com/">
+    <img src="./icons/mylogo.svg" alt="alexandertamayo.com" width="50" height="50">
+  </a>
+  <a href="mailto:alextamayocg@gmail.com">
+    <img src="./icons/email.svg" alt="alextamayocg@gmail.com" width="50" height="50">
+  </a>
+  <a href="https://linkedin.com/in/alexandertamayo/">
+    <img src="./icons/linkedin.svg" alt="linkedin.com/in/alexandertamayo" width="50" height="50">
+  </a>
+  <a href="https://x.com/AlexTamayo">
+    <img src="./icons/x.svg" alt="x.com/AlexTamayo" width="50" height="50">
+  </a>
+</p>
 
 <!-- Programming languages -->
 ### **Programming Languages** 
@@ -117,22 +132,4 @@
     <img src="./icons/blender.svg" alt="blender" width="40" height="40">
   </a>
 </p>
-
-## Social Media
-<p>
-  <a href="https://alexandertamayo.com/">
-    <img src="./icons/mylogo.svg" alt="alexandertamayo.com" width="40" height="40">
-  </a>
-  <a href="mailto:alextamayocg@gmail.com">
-    <img src="./icons/email.svg" alt="alextamayocg@gmail.com" width="40" height="40">
-  </a>
-  <a href="https://linkedin.com/in/alexandertamayo/">
-    <img src="./icons/linkedin.svg" alt="linkedin.com/in/alexandertamayo" width="40" height="40">
-  </a>
-  <a href="https://x.com/AlexTamayo">
-    <img src="./icons/x.svg" alt="x.com/AlexTamayo" width="40" height="40">
-  </a>
-</p>
-
-<!-- Insert your images or badges here -->
 
