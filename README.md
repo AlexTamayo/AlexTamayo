@@ -10,9 +10,9 @@
   <img src="./icons/ruby.svg" alt="ruby" width="50" height="50">
   <img src="./icons/html5.svg" alt="html5" width="50" height="50">
   <img src="./icons/css3.svg" alt="css3" width="50" height="50">
-  <img src="./icons/c.svg" alt="c" width="50" height="50">
-  <img src="./icons/c++.svg" alt="c++" width="50" height="50">
-  <img src="./icons/csharp.svg" alt="csharp" width="50" height="50">
+  <!-- <img src="./icons/c.svg" alt="c" width="50" height="50"> -->
+  <!-- <img src="./icons/c++.svg" alt="c++" width="50" height="50"> -->
+  <!-- <img src="./icons/csharp.svg" alt="csharp" width="50" height="50"> -->
 </p>
 
 
@@ -60,11 +60,18 @@
 
 ## Social Media
 <p>
-
-<a href="https://www..com">
-  <img src="./icons/.svg" alt="" width="50" height="50">
-</a>
-
+  <a href="https://alexandertamayo.com/">
+    <img src="./icons/mylogo.svg" alt="alexandertamayo.com" width="50" height="50">
+  </a>
+  <a href="mailto:alextamayocg@gmail.com">
+    <img src="./icons/email.svg" alt="alextamayocg@gmail.com" width="50" height="50">
+  </a>
+  <a href="https://linkedin.com/in/alexandertamayo/">
+    <img src="./icons/linkedin.svg" alt="linkedin.com/in/alexandertamayo" width="50" height="50">
+  </a>
+  <a href="https://x.com/AlexTamayo">
+    <img src="./icons/x.svg" alt="x.com/AlexTamayo" width="50" height="50">
+  </a>
 </p>
 
 <!-- Insert your images or badges here -->
