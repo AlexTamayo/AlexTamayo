@@ -4,7 +4,7 @@
 
 <!-- Contacts & Social Media -->
 ### **Contacts & Social Media**
-<p>
+<div>
   <a href="https://alexandertamayo.com/" target="_blank" rel="noreferrer">
     <img src="./icons/mylogo.svg" alt="alexandertamayo.com" title="alexandertamayo.com" width="50" height="50">
   </a>
@@ -17,11 +17,11 @@
   <a href="https://x.com/AlexTamayo" target="_blank" rel="noreferrer">
     <img src="./icons/x.svg" alt="x.com/AlexTamayo" title="x.com/AlexTamayo" width="50" height="50">
   </a>
-</p>
+</div>
 
 <!-- Programming languages -->
 ### **Programming Languages**
-<p>
+<div>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40">
   </a>
@@ -37,6 +37,8 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="./icons/css3.svg" alt="css3" title="CSS 3" width="40" height="40">
   </a>
+</div>
+<div>
   <!-- <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
     <img src="./icons/c.svg" alt="c" title="C" width="40" height="40">
   </a> -->
@@ -46,12 +48,12 @@
   <!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="./icons/csharp.svg" alt="csharp" title="C#" width="40" height="40">
   </a> -->
-</p>
+</div>
 
 
 <!-- Frameworks -->
 ### **Frameworks**
-<p>
+<div>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="./icons/node.js.svg" alt="node.js" title="Node.js" width="40" height="40">
   </a>
@@ -67,6 +69,8 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="./icons/sass.svg" alt="sass" title="SASS" width="40" height="40">
   </a>
+</div>
+<div>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="./icons/bootstrap.svg" alt="bootstrap" title="Bootstrap" width="40" height="40">
   </a>
@@ -76,11 +80,11 @@
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img src="./icons/sequelize.svg" alt="sequelize" title="Sequelize" width="40" height="40">
   </a>
-</p>
+</div>
 
 <!-- Testing -->
 ### **Testing**
-<p>
+<div>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
     <img src="./icons/cypress.svg" alt="cypress" title="Cypress" width="40" height="40">
   </a>
@@ -93,11 +97,11 @@
   <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
     <img src="./icons/chai.svg" alt="chai" title="Chai" width="40" height="40">
   </a>
-</p>
+</div>
 
 <!-- Systems & Databases -->
 ### **Systems & Databases**
-<p>
+<div>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40">
   </a>
@@ -107,11 +111,11 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="./icons/mysql.svg" alt="mysql" title="MySQL" width="40" height="40">
   </a>
-</p>
+</div>
 
 <!-- 3D & others -->
 ### **3D & others**
-<p>
+<div>
   <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="./icons/photoshop.svg" alt="photoshop" title="Adobe Photoshop" width="40" height="40">
   </a>
@@ -127,13 +131,15 @@
   <a href="https://marmoset.co/" target="_blank" rel="noreferrer">
     <img src="./icons/marmosetToolbag.svg" alt="marmoset toolbag" title="Marmoset Toolbag" width="40" height="40">
   </a>
+</div>
+<div>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="./icons/unity3d.svg" alt="unity3d" title="Unity3D" width="40" height="40">
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="./icons/blender.svg" alt="blender" title="Blender" width="40" height="40">
   </a>
-</p>
+</div>
 
 <br>
 <hr>
