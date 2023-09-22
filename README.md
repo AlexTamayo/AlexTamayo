@@ -160,4 +160,10 @@
 
 </div>
 
+<br>
+
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=AlexTamayo&style=for-the-badge&color=CC0000&label=Profile+Views" height="25"/>
+  </a>
+
 </div>
