@@ -25,7 +25,7 @@
   <img src="./icons/jquery.svg" alt="jquery" width="50" height="50">
   <img src="./icons/sass.svg" alt="sass" width="50" height="50">
   <img src="./icons/bootstraps.svg" alt="bootstraps" width="50" height="50">
-  <img src="./icons/rubyOnRails.svg" alt="rubyOnRails" width="50" height="50">
+  <img src="./icons/rubyOnRails.svg" alt="ruby on rails" width="50" height="50">
   <img src="./icons/sequelize.svg" alt="sequelize" width="50" height="50">
 </p>
 
@@ -52,8 +52,8 @@
   <img src="./icons/photoshop.svg" alt="photoshop" width="50" height="50">
   <img src="./icons/illustrator.svg" alt="illustrator" width="50" height="50">
   <img src="./icons/premiere.svg" alt="premiere" width="50" height="50">
-  <img src="./icons/unrealengine.svg" alt="unrealengine" width="50" height="50">
-  <img src="./icons/marmosettoolbag.svg" alt="marmosettoolbag" width="50" height="50">
+  <img src="./icons/unrealEngine.svg" alt="unreal engine" width="50" height="50">
+  <img src="./icons/marmosetToolbag.svg" alt="marmoset toolbag" width="50" height="50">
   <img src="./icons/unity3d.svg" alt="unity3d" width="50" height="50">
   <img src="./icons/blender.svg" alt="blender" width="50" height="50">
 </p>
