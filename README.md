@@ -2,44 +2,39 @@
 
 # Fullstack Web Developer & 3D Artist
 
-<style>
-  .half-width {
-    display: inline-block;
-    width: 50%;
-    vertical-align: top;
-  }
-</style>
-
-
-<!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right" style="padding:20px;border-radius:20%;"> -->
-
-<!-- Contacts & Social Media -->
-### **Contacts & Social Media**
-<div>
-  <a href="https://alexandertamayo.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/mylogo.svg" alt="alexandertamayo.com" title="alexandertamayo.com" width="50" height="50">
-  </a>
-  <a href="mailto:alextamayocg@gmail.com" target="_blank" rel="noreferrer">
-    <img src="./icons/email.svg" alt="alextamayocg@gmail.com" title="alextamayocg@gmail.com" width="50" height="50">
-  </a>
-  <a href="https://linkedin.com/in/alexandertamayo/" target="_blank" rel="noreferrer">
-    <img src="./icons/linkedin.svg" alt="linkedin.com/in/alexandertamayo" title="linkedin.com/in/alexandertamayo" width="50" height="50">
-  </a>
-  <a href="https://x.com/AlexTamayo" target="_blank" rel="noreferrer">
-    <img src="./icons/x.svg" alt="x.com/AlexTamayo" title="x.com/AlexTamayo" width="50" height="50">
-  </a>
-</div>
-
-<br>
-
-<!------------------------------------------------------------->
-
 <table>
+
 <tr>
-<td>
+  <td colspan="2" align="center">
+
+  <!-- Contacts & Social Media -->
+  ### **Contacts & Social Media**
+  <div align="center">
+    <a href="https://alexandertamayo.com/" target="_blank" rel="noreferrer">
+      <img src="./icons/mylogo.svg" alt="alexandertamayo.com" title="alexandertamayo.com" width="50" height="50">
+    </a>
+    <a href="mailto:alextamayocg@gmail.com" target="_blank" rel="noreferrer">
+      <img src="./icons/email.svg" alt="alextamayocg@gmail.com" title="alextamayocg@gmail.com" width="50" height="50">
+    </a>
+    <a href="https://linkedin.com/in/alexandertamayo/" target="_blank" rel="noreferrer">
+      <img src="./icons/linkedin.svg" alt="linkedin.com/in/alexandertamayo" title="linkedin.com/in/alexandertamayo" width="50" height="50">
+    </a>
+    <a href="https://x.com/AlexTamayo" target="_blank" rel="noreferrer">
+      <img src="./icons/x.svg" alt="x.com/AlexTamayo" title="x.com/AlexTamayo" width="50" height="50">
+    </a>
+  </div>
+
+  </td>
+
+
+</tr>
+<!------------------------------------------------------------->
+<tr>
+
 
 <!-- Programming languages -->
-<div align="center" class="half-width">
+<td>
+  <div align="center" >
 
   ### **Programming Languages**
   <div >
@@ -70,14 +65,14 @@
       <img src="./icons/csharp.svg" alt="csharp" title="C#" width="40" height="40">
     </a> -->
   </div>
-</div>
+  </div>
 
 </td>
-<td>
 
 
 <!-- Frameworks -->
-<div align="center">
+<td>
+  <div align="center">
 
   ### **Frameworks**
   <div>
@@ -108,17 +103,17 @@
       <img src="./icons/sequelize.svg" alt="sequelize" title="Sequelize" width="40" height="40">
     </a>
   </div>
-</div>
-
+  </div>
 </td>
+
+
 </tr>
-
 <!------------------------------------------------------------->
-
 <tr>
-<td>
+
 <!-- Testing -->
-<div align="center">
+<td>
+  <div align="center">
 
   ### **Testing**
   <div>
@@ -135,14 +130,14 @@
       <img src="./icons/chai.svg" alt="chai" title="Chai" width="40" height="40">
     </a>
   </div>
-</div>
-
+  </div>
 </td>
-<td>
+
 
 
 <!-- Systems & Databases -->
-<div align="center">
+<td>
+  <div align="center">
 
   ### **Systems & Databases**
   <div>
@@ -156,43 +151,55 @@
       <img src="./icons/mysql.svg" alt="mysql" title="MySQL" width="40" height="40">
     </a>
   </div>
-</div>
+  </div>
 
 </td>
-</tr>
 
-</table>
+
+
+</tr>
+<!------------------------------------------------------------->
+<tr>
+
+
 
 
 <!-- 3D & others -->
-<div align="center">
+<td colspan="2" align="center">
+  <div align="center">
 
-### **3D & others**
-<div>
-  <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="./icons/photoshop.svg" alt="photoshop" title="Adobe Photoshop" width="40" height="40">
-  </a>
-  <a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="./icons/illustrator.svg" alt="illustrator" title="Adobe Illustrator" width="40" height="40">
-  </a>
-  <a href="https://www.adobe.com/ca/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="./icons/premiere.svg" alt="premiere" title="Adobe Premiere Pro" width="40" height="40">
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/unrealEngine.svg" alt="unreal engine" title="Unreal Engine" width="40" height="40">
-  </a>
-</div>
-<div>
-  <a href="https://marmoset.co/" target="_blank" rel="noreferrer">
-    <img src="./icons/marmosetToolbag.svg" alt="marmoset toolbag" title="Marmoset Toolbag" width="40" height="40">
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/unity3d.svg" alt="unity3d" title="Unity3D" width="40" height="40">
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/blender.svg" alt="blender" title="Blender" width="40" height="40">
-  </a>
-</div>
+  ### **3D & others**
+  <div>
+    <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer">
+      <img src="./icons/photoshop.svg" alt="photoshop" title="Adobe Photoshop" width="40" height="40">
+    </a>
+    <a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank" rel="noreferrer">
+      <img src="./icons/illustrator.svg" alt="illustrator" title="Adobe Illustrator" width="40" height="40">
+    </a>
+    <a href="https://www.adobe.com/ca/products/premiere.html" target="_blank" rel="noreferrer">
+      <img src="./icons/premiere.svg" alt="premiere" title="Adobe Premiere Pro" width="40" height="40">
+    </a>
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+      <img src="./icons/unrealEngine.svg" alt="unreal engine" title="Unreal Engine" width="40" height="40">
+    </a>
+    <a href="https://marmoset.co/" target="_blank" rel="noreferrer">
+      <img src="./icons/marmosetToolbag.svg" alt="marmoset toolbag" title="Marmoset Toolbag" width="40" height="40">
+    </a>
+  </div>
+  <div>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+      <img src="./icons/unity3d.svg" alt="unity3d" title="Unity3D" width="40" height="40">
+    </a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+      <img src="./icons/blender.svg" alt="blender" title="Blender" width="40" height="40">
+    </a>
+  </div>
+
+
+  </td>
+</tr>
+<!------------------------------------------------------------->
+</table>
 
 
 <br>
