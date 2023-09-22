@@ -1,16 +1,38 @@
-### Hi there 👋
+<p align="center">
+  <h1>Alex Tamayo</h1>
+</p>
 
-<!--
-**AlexTamayo/AlexTamayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Web Developer & 3D Artist
 
-Here are some ideas to get you started:
+<p align="center">
+  <h2>Skills</h2>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Add icons for Programming languages here -->
+### **Programming Languages:** 
+<p align="left">
+  <img src="./Icons/python.svg" alt="python" width="80" height="80">
+  <img src="./Icons/javascript.svg" alt="javascript" width="80" height="80">
+  <img src="./Icons/ruby.svg" alt="ruby" width="80" height="80">
+  <img src="./Icons/html5.svg" alt="html5" width="80" height="80">
+  <img src="./Icons/css3.svg" alt="css3" width="80" height="80">
+</p>
+
+
+<!-- Add icons for Frameworks here -->
+### **Frameworks:**
+
+<!-- Add icons for Systems here -->
+### **Systems:**
+
+<!-- Add icons for Databases here -->
+### **Databases:**
+
+## Social Media
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00000000?style=flat&logo=LinkedIn)](Your_LinkedIn_URL)
+[![Twitter](https://img.shields.io/badge/-Twitter-00000000?style=flat&logo=Twitter)](Your_Twitter_URL)
+[![Website](https://img.shields.io/badge/-Website-00000000?style=flat)](Your_Website_URL)
+[![Twitter](https://img.shields.io/badge/-X-00000000?style=flat&logo=X)](Your_Twitter_URL)
+
+<!-- Insert your images or badges here -->
+
