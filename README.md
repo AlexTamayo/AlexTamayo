@@ -1,11 +1,9 @@
 <div align="center">
 
-# Fullstack Web Developer & 3D Artist
-**Fullstack Web Developer & 3D Artist**
+## Fullstack Web Developer & 3D Artist
 
 
 <!-- Contacts & Social Media -->
-### Contacts & Social Media
 **Contacts & Social Media**
 <p>
   <a href="https://alexandertamayo.com/">
@@ -23,7 +21,7 @@
 </p>
 
 <!-- Programming languages -->
-### **Programming Languages** 
+**Programming Languages** 
 <p>
   <a href="https://www.python.org/">
     <img src="./icons/python.svg" alt="python" width="40" height="40">
@@ -53,7 +51,7 @@
 
 
 <!-- Frameworks -->
-### **Frameworks**
+**Frameworks**
 <p>
   <a href="https://nodejs.org/en">
     <img src="./icons/node.js.svg" alt="node.js" width="40" height="40">
@@ -82,7 +80,7 @@
 </p>
 
 <!-- Testing -->
-### **Testing**
+**Testing**
 <p>
   <a href="https://www.cypress.io/">
     <img src="./icons/cypress.svg" alt="cypress" width="40" height="40">
@@ -99,7 +97,7 @@
 </p>
 
 <!-- Systems & Databases -->
-### **Systems & Databases**
+**Systems & Databases**
 <p>
   <a href="https://git-scm.com/">
     <img src="./icons/git.svg" alt="git" width="40" height="40">
@@ -113,7 +111,7 @@
 </p>
 
 <!-- 3D & others -->
-### **3D & others**
+**3D & others**
 <p>
   <a href="https://www.adobe.com/ca/products/photoshop.html">
     <img src="./icons/photoshop.svg" alt="photoshop" width="40" height="40">
