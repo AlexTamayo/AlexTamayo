@@ -2,6 +2,14 @@
 
 # Fullstack Web Developer & 3D Artist
 
+<style>
+  .half-width {
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+  }
+</style>
+
 
 <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right" style="padding:20px;border-radius:20%;"> -->
 
@@ -22,6 +30,8 @@
   </a>
 </div>
 
+<br>
+
 <!------------------------------------------------------------->
 
 <table>
@@ -29,7 +39,7 @@
 <td>
 
 <!-- Programming languages -->
-<div align="center">
+<div align="center" class="half-width">
 
   ### **Programming Languages**
   <div >
