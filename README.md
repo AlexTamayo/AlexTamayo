@@ -170,6 +170,26 @@
 
   ### **3D & others**
   <div>
+    <a href="https://www.autodesk.ca/en/products/maya/" target="_blank" rel="noreferrer">
+      <img src="./icons/mayaShaded.svg" alt="Autodesk Maya" title="Autodesk Maya" width="40" height="40">
+    </a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+      <img src="./icons/blender.svg" alt="blender" title="Blender" width="40" height="40">
+    </a>
+    <a href="https://www.maxon.net/en/zbrush" target="_blank" rel="noreferrer">
+      <img src="./icons/zbrush.svg" alt="Zbrush" title="Zbrush" width="40" height="40">
+    </a>
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+      <img src="./icons/unrealEngine.svg" alt="unreal engine" title="Unreal Engine" width="40" height="40">
+    </a>
+    <a href="https://marmoset.co/" target="_blank" rel="noreferrer">
+      <img src="./icons/marmosetToolbag.svg" alt="marmoset toolbag" title="Marmoset Toolbag" width="40" height="40">
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+      <img src="./icons/unity3d.svg" alt="unity3d" title="Unity3D" width="40" height="40">
+    </a>
+  </div>
+  <div>
     <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer">
       <img src="./icons/photoshop.svg" alt="photoshop" title="Adobe Photoshop" width="40" height="40">
     </a>
@@ -179,19 +199,22 @@
     <a href="https://www.adobe.com/ca/products/premiere.html" target="_blank" rel="noreferrer">
       <img src="./icons/premiere.svg" alt="premiere" title="Adobe Premiere Pro" width="40" height="40">
     </a>
-    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-      <img src="./icons/unrealEngine.svg" alt="unreal engine" title="Unreal Engine" width="40" height="40">
+    <a href="https://www.adobe.com/ca/products/substance3d-painter.html" target="_blank" rel="noreferrer">
+      <img src="./icons/subPainter.svg" alt="painter" title="Substance Painter" width="40" height="40">
     </a>
-    <a href="https://marmoset.co/" target="_blank" rel="noreferrer">
-      <img src="./icons/marmosetToolbag.svg" alt="marmoset toolbag" title="Marmoset Toolbag" width="40" height="40">
+    <a href="https://www.adobe.com/ca/products/substance3d-designer.html" target="_blank" rel="noreferrer">
+      <img src="./icons/subDesigner.svg" alt="designer" title="Substance Designer" width="40" height="40">
+    </a>
+    <a href="https://www.foundry.com/" target="_blank" rel="noreferrer">
+      <img src="./icons/foundry.svg" alt="the foundry" title="The Foundry" width="40" height="40">
     </a>
   </div>
   <div>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="./icons/unity3d.svg" alt="unity3d" title="Unity3D" width="40" height="40">
+    <a href="https://marvelousdesigner.com/" target="_blank" rel="noreferrer">
+      <img src="./icons/marvelousDesigner.svg" alt="marvelous designer" title="Marvelous Designer" width="40" height="40">
     </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="./icons/blender.svg" alt="blender" title="Blender" width="40" height="40">
+    <a href="https://www.autodesk.ca/en/products/maya/" target="_blank" rel="noreferrer">
+      <img src="./icons/maya.svg" alt="Autodesk Maya" title="Autodesk Maya" width="40" height="40">
     </a>
   </div>
 
