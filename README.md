@@ -213,9 +213,6 @@
     <a href="https://marvelousdesigner.com/" target="_blank" rel="noreferrer">
       <img src="./icons/marvelousDesigner.svg" alt="marvelous designer" title="Marvelous Designer" width="40" height="40">
     </a>
-    <a href="https://www.autodesk.ca/en/products/maya/" target="_blank" rel="noreferrer">
-      <img src="./icons/maya.svg" alt="Autodesk Maya" title="Autodesk Maya" width="40" height="40">
-    </a>
   </div>
 
 
