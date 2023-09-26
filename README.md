@@ -225,11 +225,25 @@
 <br>
 <hr>
 
+<!--
+
+https://streak-stats.demolab.com?user=AlexTamayo
+&theme=dark
+&ring=CC0000
+&fire=CC0000
+&hide_border=true
+&border_radius=15
+&currStreakLabel=CCCCCC
+&hide_current_streak=true
+&date_format=j%20M%5B%20Y%5D
+&background=0D1117
+
+ -->
 
 
 <div>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=AlexTamayo&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=CC0000&fire=CC0000&currStreakLabel=CCCCCC&hide_current_streak=true" height="145"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=AlexTamayo&theme=dark&ring=CC0000&fire=CC0000&hide_border=true&border_radius=15&currStreakLabel=CCCCCC&hide_current_streak=true&date_format=j%20M%5B%20Y%5D&background=0D1117" height="145"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=6&layout=donut&theme=dark&bg_color=0D1117&border_radius=15&hide_border=true&hide_progress=true" height="145"/>
