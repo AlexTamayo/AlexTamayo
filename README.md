@@ -19,9 +19,9 @@
     <a href="https://linkedin.com/in/alexandertamayo/" target="_blank" rel="noreferrer">
       <img src="./icons/linkedin.svg" alt="linkedin.com/in/alexandertamayo" title="linkedin.com/in/alexandertamayo" width="50" height="50">
     </a>
-<!--     <a href="https://x.com/AlexTamayo" target="_blank" rel="noreferrer">
+    <a href="https://x.com/AlexTamayo" target="_blank" rel="noreferrer">
       <img src="./icons/x.svg" alt="x.com/AlexTamayo" title="x.com/AlexTamayo" width="50" height="50">
-    </a> -->
+    </a>
   </div>
 
   </td>
