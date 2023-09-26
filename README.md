@@ -22,9 +22,6 @@
 <!--     <a href="https://x.com/AlexTamayo" target="_blank" rel="noreferrer">
       <img src="./icons/x.svg" alt="x.com/AlexTamayo" title="x.com/AlexTamayo" width="50" height="50">
     </a> -->
-    <a href="https://x.com/AlexTamayo" target="_blank" rel="noreferrer">
-      <img src="./icons/x.svg" alt="x.com/AlexTamayo" title="x.com/AlexTamayo" width="50" height="50">
-    </a>
   </div>
 
   </td>
