@@ -1,0 +1,50 @@
+<svg role="img" viewBox="0 0 185 185" xmlns="http://www.w3.org/2000/svg">
+    <title>Figma</title>
+    <!-- Created by github.com/AlexTamayo -->
+    <defs>
+        <style>
+            .ee078c39-6891-4378-8170-4bbb95756cfc {
+                fill: #e6e7e8;
+            }
+
+            .f51a168a-1b72-4ec0-babe-c81c99d54606 {
+                fill: #acabac;
+            }
+
+            .e68610dc-1b75-4272-a604-6e7f05bf3af8 {
+                fill: #737373;
+            }
+
+            .a3cdb6e7-14d9-40e6-8092-fc606297e37d {
+                fill: #8f8e8e;
+            }
+
+            .f9eb0d6e-a12f-47f9-91e0-7c7a83b3bece {
+                fill: #a0a0a0;
+            }
+
+            .e311ae7b-859d-4d17-89f0-567f44c8a77a {
+                fill: #b5b5b4;
+            }
+        </style>
+    </defs>
+    <g id="f01a7a71-365b-405f-9c94-e8cdc62fd579" data-name="Layer 1">
+        <path class="ee078c39-6891-4378-8170-4bbb95756cfc"
+            d="M151.075,0H32.51C14.534,0,0,14.907,0,33.345v116.9c0,18.438,14.534,33.345,32.51,33.345H151.075c17.976,0,32.51-14.907,32.51-33.345V33.345C183.585,14.907,169.051,0,151.075,0Z" />
+        <path id="bd17b681-fb7e-4777-a350-1bc3cfe50e28" data-name="path0 fill"
+            class="f51a168a-1b72-4ec0-babe-c81c99d54606"
+            d="M72.126,150.793a19.674,19.674,0,0,0,19.667-19.667V111.459H72.126a19.667,19.667,0,0,0,0,39.334Z" />
+        <path id="bf24229c-2084-446f-8dde-4d9563a100c7" data-name="path1 fill"
+            class="e68610dc-1b75-4272-a604-6e7f05bf3af8"
+            d="M52.459,91.793A19.674,19.674,0,0,1,72.126,72.126H91.793v39.333H72.126A19.674,19.674,0,0,1,52.459,91.793Z" />
+        <path id="b62cf86c-213f-44fd-8cfd-32fad30b7e33" data-name="path1 fill"
+            class="a3cdb6e7-14d9-40e6-8092-fc606297e37d"
+            d="M52.459,52.459A19.674,19.674,0,0,1,72.126,32.793H91.793V72.126H72.126A19.674,19.674,0,0,1,52.459,52.459Z" />
+        <path id="fbc80958-8391-4d33-a9b3-e5d2c2809016" data-name="path2 fill"
+            class="f9eb0d6e-a12f-47f9-91e0-7c7a83b3bece"
+            d="M91.793,32.793h19.666a19.667,19.667,0,1,1,0,39.333H91.793Z" />
+        <path id="b011dae0-9227-468f-8005-c9e377d06cff" data-name="path3 fill"
+            class="e311ae7b-859d-4d17-89f0-567f44c8a77a"
+            d="M131.126,91.793a19.667,19.667,0,1,1-19.667-19.667A19.674,19.674,0,0,1,131.126,91.793Z" />
+    </g>
+</svg>
