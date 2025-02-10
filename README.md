@@ -760,7 +760,7 @@
 <br>
 <hr>
 
-<!--
+<!-- 
 
 https://streak-stats.demolab.com?user=AlexTamayo
 &theme=dark
@@ -771,48 +771,45 @@ https://streak-stats.demolab.com?user=AlexTamayo
 &currStreakLabel=CCCCCC
 &hide_current_streak=true
 &date_format=j%20M%5B%20Y%5D
-&background=0D1117
-
+&background=212830
  -->
+
 
 
 <div>
   <a
-  href="https://git.io/streak-stats">
+    href="https://git.io/streak-stats">
     <img 
-    align  = "center"
-    src    = "https://streak-stats.demolab.com?user=AlexTamayo&theme=dark&background=0D1117&ring=CC0000&fire=CC0000&hide_border=true&border_radius=15&currStreakLabel=CCCCCC&hide_current_streak=true&date_format=j%20M%5B%20Y%5D"
-    height = "145"
+      align  = "center"
+      src    = "https://streak-stats.demolab.com?user=AlexTamayo&theme=dark&background=212830&ring=CC0000&fire=CC0000&hide_border=true&border_radius=15&currStreakLabel=CCCCCC&hide_current_streak=true&date_format=j%20M%5B%20Y%5D"
+      height = "145"
     />
   </a>
   <a
-  href="https://github.com/anuraghazra/github-readme-stats">
+    href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-    align  = "center"
-    src    = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=6&layout=donut&theme=dark&bg_color=0D1117&border_radius=15&hide_border=true&hide_progress=true"
-    height = "145"
+      align  = "center"
+      src    = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTamayo&langs_count=6&layout=donut&theme=dark&bg_color=212830&border_radius=15&hide_border=true&hide_progress=true"
+      height = "145"
     />
   </a>
-
   <!-- <a
-  href="https://github.com/anuraghazra/github-readme-stats">
+    href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=AlexTamayo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=0D1117&border_radius=15"
-    height="145"
+      align  = "center"
+      src    = "https://github-readme-stats.vercel.app/api?username=AlexTamayo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=0D1117&border_radius=15"
+      height = "145"
     />
   </a> -->
-
 </div>
 
 <br>
-
   <a
-  href="https://github.com/antonkomarev/github-profile-views-counter">
+    href="https://github.com/antonkomarev/github-profile-views-counter">
     <img 
-    align  = "center"
-    src    = "https://komarev.com/ghpvc/?username=AlexTamayo&style=for-the-badge&color=CC0000&label=Profile+Views"
-    height = "25"
+      align  = "center"
+      src    = "https://komarev.com/ghpvc/?username=AlexTamayo&style=for-the-badge&color=CC0000&label=Profile+Views"
+      height = "25"
     />
   </a>
 
