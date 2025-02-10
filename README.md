@@ -302,7 +302,7 @@
         >
     </a>
     <a
-    href   = ""
+    href   = "https://nextjs.org/"
     target = "_blank"
     rel    = "noreferrer"
     >
