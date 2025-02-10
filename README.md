@@ -44,14 +44,18 @@
     <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noreferrer">
       <img src="./icons/javascript.svg" alt="javascript" title="Javascript" width="40" height="40">
     </a>
+    <!-- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+      <img src="./icons/rust.svg" alt="rust" title="Rust" width="40" height="40">
+    </a> -->
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
       <img src="./icons/html5_flat_v1.svg" alt="html5" title="HTML 5" width="40" height="40">
     </a>
+
+  </div>
+  <div>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
       <img src="./icons/css3_flat_v1.svg" alt="css3" title="CSS 3" width="40" height="40">
     </a>
-  </div>
-  <div>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
       <img src="./icons/ruby.svg" alt="ruby" title="Ruby" width="40" height="40">
     </a>
